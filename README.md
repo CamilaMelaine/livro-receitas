@@ -1,7 +1,8 @@
-# Livro de receitas :woman_cook:
+Livro de receitas 👩‍🍳
 
-Olá! Bem-vindo ao meu livro de recitas :cookie:
+
+Olá! Bem-vindo ao meu livro de recitas 🍪
+
 
 - Strogonoff de carne 
 - Bolo de cenoura com chocolate  
-
